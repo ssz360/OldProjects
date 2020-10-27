@@ -1,0 +1,21 @@
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\bin\Debug\calculator.exe.config
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\bin\Debug\calculator.exe
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\bin\Debug\calculator.pdb
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.About.resources
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.pnlCalculator.resources
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.exe
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.pdb
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\bin\Debug\calculator.exe.config
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\bin\Debug\calculator.exe
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\bin\Debug\calculator.pdb
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.About.resources
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.pnlCalculator.resources
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.exe
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.pdb
