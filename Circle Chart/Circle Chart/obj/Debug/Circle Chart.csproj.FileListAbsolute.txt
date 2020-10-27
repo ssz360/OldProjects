@@ -1,0 +1,19 @@
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\bin\Debug\Circle Chart.exe.config
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\bin\Debug\Circle Chart.exe
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\bin\Debug\Circle Chart.pdb
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\obj\Debug\Circle Chart.csprojResolveAssemblyReference.cache
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\obj\Debug\Circle_Chart.Form1.resources
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\obj\Debug\Circle_Chart.Properties.Resources.resources
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\obj\Debug\Circle Chart.csproj.GenerateResource.Cache
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\obj\Debug\Circle Chart.exe
+D:\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\obj\Debug\Circle Chart.pdb
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\bin\Debug\Circle Chart.exe.config
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\bin\Debug\Circle Chart.exe
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\bin\Debug\Circle Chart.pdb
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\obj\Debug\Circle Chart.csprojAssemblyReference.cache
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\obj\Debug\Circle_Chart.Form1.resources
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\obj\Debug\Circle_Chart.Properties.Resources.resources
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\obj\Debug\Circle Chart.csproj.GenerateResource.cache
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\obj\Debug\Circle Chart.csproj.CoreCompileInputs.cache
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\obj\Debug\Circle Chart.exe
+J:\d drive\private apps data\Vitual Stadio\visual studio 2012\Projects\Circle Chart\Circle Chart\obj\Debug\Circle Chart.pdb
