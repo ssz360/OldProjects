@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{36A24ECB-9805-4AF2-8D4F-B3D6ECFFF09B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PhoneBook_Project</RootNamespace>
+    <AssemblyName>PhoneBook Project</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GlassButton">
+      <HintPath>.\GlassButton.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Contact.cs" />
+    <Compile Include="Classes\EncryptDecrypt.cs" />
+    <Compile Include="Classes\History.cs" />
+    <Compile Include="Classes\linked list.cs" />
+    <Compile Include="Classes\Person.cs" />
+    <Compile Include="Enums\ContactsGroup.cs" />
+    <Compile Include="Enums\HistoryEnum.cs" />
+    <Compile Include="Forms\AddContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddContact.Designer.cs">
+      <DependentUpon>AddContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AddGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddGroup.Designer.cs">
+      <DependentUpon>AddGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AddHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddHistory.Designer.cs">
+      <DependentUpon>AddHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmKey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmKey.Designer.cs">
+      <DependentUpon>frmKey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\AddContact.resx">
+      <DependentUpon>AddContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AddGroup.resx">
+      <DependentUpon>AddGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AddHistory.resx">
+      <DependentUpon>AddHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmKey.resx">
+      <DependentUpon>frmKey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\Style.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\LeftSide.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\proj3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\proj22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\proj4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\proj5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\proj11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\proj33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\proj55.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\tooltip.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
