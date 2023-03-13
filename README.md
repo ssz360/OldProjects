@@ -18,7 +18,7 @@ Drawing simple pie chart
 
 ### [Phone Book](<./Phonebook>)
 
-<img src="./phonebook/screenshot.png" />
+<img src="./PhoneBook/screenshot.png" />
 
 ### [Phone Book Key Generator](<./PhoneBookKeygen>)
 
