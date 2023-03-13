@@ -1,4 +1,4 @@
-# OldProjects
+# Old Projects from 2013-2014
 ### [Calculator](./calculator)
 A project about operators order of calculations
 
@@ -15,3 +15,25 @@ Drawing simple pie chart
 Drawing simple pie chart
 
 <img width="400" src="./Loading/snapshot.gif" />
+
+### [Phone Book](<./Phonebook>)
+
+<img src="./phonebook/screenshot.png" />
+
+### [Phone Book Key Generator](<./PhoneBookKeygen>)
+
+<img src="./PhoneBookKeygen/screenshot.jpg" />
+
+### [Implementations of Self-Indexed Sort](<./SIS>)
+
+An implementation of Self-Indexed Sort algorithm which has **O(n)**
+
+<img src="./SIS/screenshot.jpg" />
+
+### [Old Snake Game :)](<./Snake>)
+
+<img src="./Snake/screenshot.gif" />
+
+
+### [Draw Information On Taskbar](<./TaskbarInformation>)
+It draws CPU and RAM usage on screen
