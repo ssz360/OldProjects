@@ -9,3 +9,9 @@ A project about operators order of calculations
 Drawing simple pie chart
 
 ![pie chart snapshot](<./Circle Chart/snapshot.gif>)
+
+
+### [Loading](<./Loading>)
+Drawing simple pie chart
+
+<img width="400" src="./Loading/snapshot.gif" />
